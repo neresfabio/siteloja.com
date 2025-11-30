@@ -1,0 +1,16 @@
+{
+  "name": "practice-perfect-cdev",
+  "version": "1.0.0",
+  "description": "## Visão Registro pessoal da rotina de aprendizagem em desenvolvimento. Use este documento para planejar, executar e revisar suas atividades diárias e semanais.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "Neres",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
