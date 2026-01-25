@@ -513,5 +513,4 @@ Especifique uma licença oficial se desejar publicar (MIT, Apache 2.0, etc.).
 
 ---
 
-**Desenvolvido com ❤️ por Fábio Neres**  
-Santarém - PA | EngVerse
+**Desenvolvido com ❤️ por Fábio Neres** 
